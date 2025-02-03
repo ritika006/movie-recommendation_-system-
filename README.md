@@ -1,8 +1,10 @@
 
 # Movie Recommendation System
 #Project Images
+![Screenshot 2025-02-03 130036](https://github.com/user-attachments/assets/6449fe00-66f4-4996-adec-e2d3ce86f17b)
 
 ![Screenshot 2025-02-03 125022](https://github.com/user-attachments/assets/79f9be6e-e77f-4fa9-909e-9bce6141f9f6)
+
 
 This project is a movie recommendation system that suggests movies based on users' preferences and interactions. It uses collaborative filtering and content-based filtering techniques to provide recommendations based on data such as ratings, genres, and more.
 

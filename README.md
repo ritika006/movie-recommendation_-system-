@@ -12,21 +12,6 @@ This project demonstrates how machine learning and similarity algorithms can be 
 
 ---
 
-## 📸 App Screenshots & Demo GIFs
-
-### 🖥️ Home Page
-![Home Page](screenshots/home.png)
-
-### 🎥 Movie Recommendation Output
-![Recommendation Output](screenshots/recommendations.png)
-
-### 🎞️ Demo GIF
-![Demo GIF](screenshots/demo.gif)
-
-> 📌 Place all images inside a `screenshots/` folder in your repository.
-
----
-
 ## 📌 Project Overview
 
 This **Movie Recommendation System** helps users discover new movies similar to their interests.  
@@ -179,3 +164,4 @@ MovieLens Dataset
 Scikit-learn Documentation
 
 Flask / Streamlit Community
+
